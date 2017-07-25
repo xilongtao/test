@@ -1,0 +1,11 @@
+{
+    "name": "xilongtao/testcomposer",
+    "description": "a test for composer",
+    "authors": [
+        {
+            "name": "xilongtaoPC",
+            "email": "xilongtao@sporte.cn"
+        }
+    ],
+    "require": {}
+}

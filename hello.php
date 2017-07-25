@@ -1,5 +1,7 @@
 <?php
-function hello()
-{
-  echo 'hello world';
+class Hello {
+  public static function sayHello()
+  {
+    echo 'hello world';
+  }
 }

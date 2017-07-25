@@ -8,5 +8,8 @@
             "email": "xilongtao@sporte.cn"
         }
     ],
+    "autoload": {
+        "classmap": ["src/"]
+    }
     "require": {}
 }

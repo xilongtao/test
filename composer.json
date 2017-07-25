@@ -1,6 +1,7 @@
 {
     "name": "xilongtao/testcomposer",
     "description": "a test for composer",
+    "license": "MIT",
     "authors": [
         {
             "name": "xilongtaoPC",
